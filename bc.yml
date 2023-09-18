@@ -17,7 +17,7 @@ spec:
       name: 'test-git-lfs:latest'
   source:
     git:
-      uri: "https://github.com/selrahal/buildconfig-git-lfs.git"
+      uri: "https://github.com/dan04mcs/buildconfig-git-lfs.git"
   strategy:
     dockerStrategy:
       dockerfilePath: Dockerfile
